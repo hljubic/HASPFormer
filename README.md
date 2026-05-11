@@ -1,6 +1,19 @@
-# (In Review) HASPFormer: Advancing Multivariate Time Series Forecasting with Self-Attention and Stochastic Pooling
+# HASPFormer: Advancing Multivariate Time Series Forecasting with Self-Attention and Stochastic Pooling
 
-The code repository for "HASPFormer: Advancing Multivariate Time Series Forecasting with Self-Attention and Stochastic Pooling" in PyTorch. This paper and repository is based on SOFTS paper (https://github.com/Secilia-Cxy/SOFTS).
+The official PyTorch implementation of "HASPFormer: Advancing Multivariate Time Series Forecasting with Self-Attention and Stochastic Pooling".
+
+## Publication
+
+The paper has been published in *Advanced Engineering Informatics*.
+
+Article link: https://www.sciencedirect.com/science/article/abs/pii/S147403462501105X
+
+This paper and repository are based on the SOFTS paper (https://github.com/Secilia-Cxy/SOFTS).
+
+## Follow-up Work
+
+A follow-up repository is available at:
+https://github.com/hljubic/HASPFormer2
 
 ## Datasets
 
